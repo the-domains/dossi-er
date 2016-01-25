@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D0D0D0'
+    - '#204870'
+    - '#000000'
+    - '#3980C6'
+    - '#000000'
+  brandStrength: 0.454564
+  lightness: 0.2018
+  rhythmicContrast: 0.651558
+  saturation: 0.494394
+cta: {}
+layout_spectrum: 1
+name: dossi.er
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.496621
